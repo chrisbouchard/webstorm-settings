@@ -1,6 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="FONT_SCALE" value="1.0833334" />
