@@ -2,7 +2,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="10" />
     <option name="FONT_FAMILY" value="Iosevka" />
-    <option name="FONT_SCALE" value="1.0833334" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -13,5 +12,9 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="PRESELECT_RENAME" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
