@@ -37,12 +37,12 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" timestamp="1517679945739">
-        <mark key="'" line="0" column="14" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" timestamp="1517681497294">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.routes.ts" timestamp="1500846474210">
         <mark key="[" line="9" column="0" />
@@ -545,12 +545,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1517679973614">
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1517681481802">
         <mark key="'" line="9" column="31" />
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="64" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="3" column="48" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab-list.ts" timestamp="1502056927482">
         <mark key="[" line="0" column="0" />
@@ -578,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6215" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
       <jump line="0" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
       <jump line="4000" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
       <jump line="6040" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
@@ -678,16 +677,17 @@
       <jump line="13" column="13" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-facade.service.ts" />
       <jump line="10" column="31" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" />
       <jump line="0" column="14" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
+      <jump line="1" column="25" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlkPSJmYXRlLWNoYXJhY3Rlci1tZW51Ig==</text>
+        <text encoding="base64">IGZhdGUtbWVudQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlkPSJmYXRlLWNoYXJhY3Rlci1tZW51Ig==</text>
+        <text encoding="base64">IGZhdGUtbWVudQ==</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
