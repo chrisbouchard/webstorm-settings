@@ -37,12 +37,12 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" timestamp="1517682321606">
-        <mark key="'" line="1" column="25" />
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" timestamp="1517698283564">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.routes.ts" timestamp="1500846474210">
         <mark key="[" line="9" column="0" />
@@ -304,11 +304,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" timestamp="1517453925807">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" timestamp="1517697309747">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/vendor.ts" timestamp="1510281505381">
         <mark key="[" line="14" column="0" />
@@ -545,12 +545,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1517681481802">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1517698692862">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab-list.ts" timestamp="1502056927482">
         <mark key="[" line="0" column="0" />
@@ -578,8 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
-      <jump line="4000" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
       <jump line="6040" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
       <jump line="6072" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
       <jump line="6098" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/package-lock.json" />
@@ -678,49 +676,51 @@
       <jump line="10" column="31" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" />
       <jump line="0" column="14" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
       <jump line="1" column="25" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" />
+      <jump line="7" column="12" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZhdGUtbWVudQ==</text>
+        <text>bottom pointing</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZhdGUtbWVudQ==</text>
+        <text>bottom pointing</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVzIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsKCmltcG9ydCB7IENIQVJBQ1RFUl9ST1VURVMgfSBmcm9tICcuLi9jaGFyYWN0ZXIvY2hhcmFjdGVyLnJvdXRlcyc7CmltcG9ydCB7IEdST1VQX1JPVVRFUyB9IGZyb20gJy4uL2dyb3VwL2dyb3VwLnJvdXRlcyc7CgpleHBvcnQgY29uc3QgQVBQX1JPVVRFUzogUm91dGVzID0gWwo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgpIGFjdGl2ZSE6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNjBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBuZ09uSW5pdCgpOiB2b2lkIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjaGFyYWN0ZXJTdGF0ZTogY2hhcmFjdGVyUmVkdWNlciwKICAgIHVpU3RhdGU6IHVpUmVkdWNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmYXRlLW1lbnUtaXRlbSAqbmdGb3I9ImxldCBjaGFyYWN0ZXIgb2YgY2hhcmFjdGVycyIgW2NoYXJhY3Rlcl09ImNoYXJhY3RlciIgY2xhc3M9Iml0ZW0iPgogICAgICAgICAgICAgICAgPC9mYXRlLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmltcG9ydCB7IGNoYXJhY3RlclJlZHVjZXIgfSBmcm9tICcuLi9jaGFyYWN0ZXIvY2hhcmFjdGVyLnJlZHVjZXInOwppbXBvcnQgeyB1aVJlZHVjZXIgfSBmcm9tICcuLi91aS91aS5yZWR1Y2VyJzsK</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGV4dCI+SGVsbG8gSGVsbG8gSGVsbG88L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmltcG9ydCB7IENIQVJBQ1RFUl9ST1VURVMgfSBmcm9tICcuLi9jaGFyYWN0ZXIvY2hhcmFjdGVyLnJvdXRlcyc7CmltcG9ydCB7IEdST1VQX1JPVVRFUyB9IGZyb20gJy4uL2dyb3VwL2dyb3VwLnJvdXRlcyc7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0iPgogICAgICAgIFdvcmxkIFdvcmxkIFdvcmxkCiAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
