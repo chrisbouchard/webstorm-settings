@@ -81,10 +81,6 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.routes.ts" timestamp="1510292450181">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="34" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/model/adds-shifts.ts" timestamp="1501272072878">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="12" />
@@ -283,6 +279,12 @@
         <mark key="." line="166" column="35" />
         <mark key="^" line="166" column="35" />
       </file>
+      <file name="$USER_HOME$/git/fate-charsheet-ng/.angular-cli.json" timestamp="1520042923681">
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="2" />
+        <mark key="." line="59" column="2" />
+        <mark key="^" line="59" column="2" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.reducer.ts" timestamp="1510292537159">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="50" />
@@ -448,6 +450,10 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/fate-charsheet-ng/node_modules/@angular/compiler-cli/src/transformers/program.js" timestamp="1520043226889">
+        <mark key="[" line="43" column="71" />
+        <mark key="]" line="43" column="99" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack/webpack.development.js" timestamp="1500347670562">
         <mark key="'" line="2" column="0" />
@@ -696,8 +702,8 @@
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -709,31 +715,31 @@
         <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbnB1dCgpIGFjdGl2ZSE6IGJvb2xlYW47Cg==</text>
+        <text encoding="base64">ICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
+        <text encoding="base64">ICAid2FybmluZ3MiOiB7CiAgICAidHlwZXNjcmlwdE1pc21hdGNoIjogZmFsc2UKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNjBweDsK</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgpIGFjdGl2ZSE6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmYXRlLW1lbnUtaXRlbSAqbmdGb3I9ImxldCBjaGFyYWN0ZXIgb2YgY2hhcmFjdGVycyIgW2NoYXJhY3Rlcl09ImNoYXJhY3RlciIgY2xhc3M9Iml0ZW0iPgogICAgICAgICAgICAgICAgPC9mYXRlLW1lbnUtaXRlbT4K</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNjBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGV4dCI+SGVsbG8gSGVsbG8gSGVsbG88L3NwYW4+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0iPgogICAgICAgIFdvcmxkIFdvcmxkIFdvcmxkCiAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmYXRlLW1lbnUtaXRlbSAqbmdGb3I9ImxldCBjaGFyYWN0ZXIgb2YgY2hhcmFjdGVycyIgW2NoYXJhY3Rlcl09ImNoYXJhY3RlciIgY2xhc3M9Iml0ZW0iPgogICAgICAgICAgICAgICAgPC9mYXRlLW1lbnUtaXRlbT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGV4dCI+SGVsbG8gSGVsbG8gSGVsbG88L3NwYW4+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0iPgogICAgICAgIFdvcmxkIFdvcmxkIFdvcmxkCiAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
