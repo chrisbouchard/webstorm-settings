@@ -37,6 +37,12 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/tsconfig.app.json" timestamp="1520044435190">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" timestamp="1517698283564">
         <mark key="'" line="7" column="12" />
         <mark key="[" line="6" column="20" />
@@ -48,6 +54,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/fate-charsheet-ng/tsconfig.json" timestamp="1520044838882">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/common/typed-record.ts" timestamp="1497572993695">
         <mark key="[" line="49" column="0" />
@@ -702,44 +714,44 @@
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
+        <text encoding="base64">ICAiYW5ndWxhckNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUsCiAgICAiZnVsbFRlbXBsYXRlVHlwZUNoZWNrIjogdHJ1ZSwKICAgICJzdHJpY3RJbmplY3Rpb25QYXJhbWV0ZXJzIjogdHJ1ZSwKICAgICJzdHJpY3RNZXRhZGF0YUVtaXQiOiB0cnVlCiAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUsCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAid2FybmluZ3MiOiB7CiAgICAidHlwZXNjcmlwdE1pc21hdGNoIjogZmFsc2UKICB9Cg==</text>
+        <text encoding="base64">ICAiYW5ndWxhckNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBJbnB1dCgpIGFjdGl2ZSE6IGJvb2xlYW47Cg==</text>
+        <text encoding="base64">ICAgICJkaXNhYmxlVHlwZVNjcmlwdFZlcnNpb25DaGVjayI6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
+        <text encoding="base64">ICAid2FybmluZ3MiOiB7CiAgICAidHlwZXNjcmlwdE1pc21hdGNoIjogZmFsc2UKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNjBweDsK</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgpIGFjdGl2ZSE6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNTBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmYXRlLW1lbnUtaXRlbSAqbmdGb3I9ImxldCBjaGFyYWN0ZXIgb2YgY2hhcmFjdGVycyIgW2NoYXJhY3Rlcl09ImNoYXJhY3RlciIgY2xhc3M9Iml0ZW0iPgogICAgICAgICAgICAgICAgPC9mYXRlLW1lbnUtaXRlbT4K</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNjBweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGV4dCI+SGVsbG8gSGVsbG8gSGVsbG88L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0iPgogICAgICAgIFdvcmxkIFdvcmxkIFdvcmxkCiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmYXRlLW1lbnUtaXRlbSAqbmdGb3I9ImxldCBjaGFyYWN0ZXIgb2YgY2hhcmFjdGVycyIgW2NoYXJhY3Rlcl09ImNoYXJhY3RlciIgY2xhc3M9Iml0ZW0iPgogICAgICAgICAgICAgICAgPC9mYXRlLW1lbnUtaXRlbT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
