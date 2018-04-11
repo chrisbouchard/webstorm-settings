@@ -321,11 +321,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" timestamp="1523409057022">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="44" />
-        <mark key="." line="28" column="44" />
-        <mark key="^" line="28" column="44" />
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" timestamp="1523412568417">
+        <mark key="[" line="44" column="53" />
+        <mark key="]" line="44" column="54" />
+        <mark key="." line="44" column="54" />
+        <mark key="^" line="44" column="54" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/styles.less" timestamp="1510281617178">
         <mark key="[" line="0" column="9" />
@@ -560,12 +560,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1520046619335">
+      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1523409296365">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="10" column="81" />
-        <mark key="]" line="10" column="81" />
-        <mark key="." line="10" column="81" />
-        <mark key="^" line="10" column="81" />
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+        <mark key="^" line="3" column="57" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" timestamp="1523408567208">
         <mark key="[" line="6" column="82" />
@@ -695,10 +695,10 @@
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
