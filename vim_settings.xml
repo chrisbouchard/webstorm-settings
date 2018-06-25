@@ -618,8 +618,8 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/angular.json" timestamp="1529861593897">
-        <mark key="'" line="80" column="23" />
+      <file name="$USER_HOME$/Projects/todo-app/angular.json" timestamp="1529890464185">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="80" column="19" />
         <mark key="]" line="80" column="23" />
         <mark key="." line="80" column="23" />
@@ -641,8 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="13" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.effects.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.effects.ts" />
       <jump line="33" column="34" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" />
       <jump line="27" column="47" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" />
       <jump line="42" column="37" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.state.ts" />
@@ -738,9 +736,11 @@
       <jump line="78" column="27" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="0" column="18" filename="$USER_HOME$/Projects/todo-app/src/styles.scss" />
       <jump line="17" column="77" filename="$USER_HOME$/Projects/todo-app/src/theme.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="30" column="23" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="80" column="23" filename="$USER_HOME$/Projects/todo-app/angular.json" />
+      <jump line="23" column="29" filename="$USER_HOME$/Projects/todo-app/angular.json" />
+      <jump line="132" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -753,7 +753,7 @@
         <text>styles</text>
       </register>
       <register name="/" type="4">
-        <text>styles</text>
+        <text>output</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAic3JjL3N0eWxlcy5zY3NzIgo=</text>
@@ -791,9 +791,9 @@ candy</text>
       </register>
     </registers>
     <search>
-      <last-search>styles</last-search>
+      <last-search>output</last-search>
       <last-offset />
-      <last-pattern>styles</last-pattern>
+      <last-pattern>output</last-pattern>
       <last-replace>active</last-replace>
       <last-substitute>default</last-substitute>
       <last-dir>1</last-dir>
@@ -801,7 +801,6 @@ candy</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0=</entry>
         <entry>;</entry>
         <entry>.stunt</entry>
         <entry>stunt</entry>
@@ -821,6 +820,7 @@ candy</text>
         <entry>character</entry>
         <entry>sass</entry>
         <entry>styles</entry>
+        <entry>output</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
