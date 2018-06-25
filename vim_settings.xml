@@ -30,6 +30,13 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" timestamp="1529891283755">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/tsconfig.json" timestamp="1520044838882">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="18" />
@@ -256,10 +263,6 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/node_modules/@angular/compiler-cli/src/transformers/program.js" timestamp="1520043226889">
-        <mark key="[" line="43" column="71" />
-        <mark key="]" line="43" column="99" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack/test.profile.js" timestamp="1500349120320">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="13" column="38" />
@@ -287,6 +290,12 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="45" column="29" />
         <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/karma.conf.js" timestamp="1529891160612">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="33" column="1" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="33" column="1" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/common/util/sets.ts" timestamp="1497572961920">
         <mark key="'" line="8" column="0" />
@@ -554,6 +563,13 @@
         <mark key="." line="59" column="4" />
         <mark key="^" line="59" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/todo-app/.circleci/config.yml" timestamp="1529891457578">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/app.routes.ts" timestamp="1510292505375">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="36" />
@@ -641,11 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" />
-      <jump line="27" column="47" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" />
-      <jump line="42" column="37" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.state.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" />
-      <jump line="71" column="50" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" />
       <jump line="16" column="23" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" />
       <jump line="60" column="23" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" />
       <jump line="28" column="39" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.state.ts" />
@@ -741,16 +752,21 @@
       <jump line="23" column="29" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="132" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
+      <jump line="9" column="23" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
+      <jump line="16" column="83" filename="$USER_HOME$/Projects/todo-app/.circleci/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>styles</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>styles</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
