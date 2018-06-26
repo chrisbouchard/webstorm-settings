@@ -363,12 +363,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/package.json" timestamp="1529892212656">
+      <file name="$USER_HOME$/Projects/todo-app/package.json" timestamp="1529893076902">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="23" />
-        <mark key="]" line="56" column="1" />
-        <mark key="." line="56" column="1" />
-        <mark key="^" line="56" column="1" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="10" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/common/typed-record.ts" timestamp="1497572993695">
         <mark key="[" line="49" column="0" />
@@ -769,11 +769,11 @@
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>ie</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>ie</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
@@ -781,33 +781,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAic3JjL3N0eWxlcy5zY3NzIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICI+IDElIiwKICAgICJsYXN0IDIgdmVyc2lvbnMiLA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">QGltcG9ydCAidGhlbWUuc2NzcyI7Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>candy
 candy</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gUGx1cyBpbXBvcnRzIGZvciBvdGhlciBjb21wb25lbnRzIGluIHlvdXIgYXBwLgo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAifkBhbmd1bGFyL21hdGVyaWFsL3ByZWJ1aWx0LXRoZW1lcy9pbmRpZ28tcGluay5jc3MiOwo=</text>
+        <text encoding="base64">Ly8gUGx1cyBpbXBvcnRzIGZvciBvdGhlciBjb21wb25lbnRzIGluIHlvdXIgYXBwLgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QGltcG9ydCAifkBhbmd1bGFyL21hdGVyaWFsL3ByZWJ1aWx0LXRoZW1lcy9pbmRpZ28tcGluay5jc3MiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">QGltcG9ydCAifkBhbmd1bGFyL21hdGVyaWFsL3ByZWJ1aWx0LXRoZW1lcy9pbmRpZ28tcGluay5jc3MiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
