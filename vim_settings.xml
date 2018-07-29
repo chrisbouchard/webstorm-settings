@@ -363,8 +363,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/package.json" timestamp="1529893076902">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/todo-app/package.json" timestamp="1532830497570">
+        <mark key="'" line="54" column="9" />
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="13" />
         <mark key="." line="55" column="13" />
@@ -664,7 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.state.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.state.ts" />
       <jump line="30" column="43" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" />
       <jump line="82" column="5" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" />
@@ -764,6 +763,7 @@
       <jump line="14" column="28" filename="$USER_HOME$/Projects/todo-app/package.json" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/todo-app/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/package.json" />
+      <jump line="54" column="9" filename="$USER_HOME$/Projects/todo-app/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
