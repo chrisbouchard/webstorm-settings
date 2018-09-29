@@ -37,6 +37,11 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/model/item.ts" timestamp="1538244385891">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/tsconfig.json" timestamp="1520044838882">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="18" />
@@ -217,6 +222,13 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/app/app-routing.module.ts" timestamp="1538243885808">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/sheet/sheet.component.ts" timestamp="1500339533246">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="39" />
@@ -276,6 +288,11 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/app/app.component.html" timestamp="1538183674005">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character-page.component.haml" timestamp="1502057429396">
         <mark key="'" line="0" column="0" />
@@ -475,6 +492,12 @@
         <mark key="." line="46" column="2" />
         <mark key="^" line="46" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/app/item.state.ts" timestamp="1538244337598">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack.config.js" timestamp="1500600591794">
         <mark key="'" line="8" column="51" />
         <mark key="[" line="14" column="28" />
@@ -549,6 +572,9 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1538243227895">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.less" timestamp="1499016761575">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="3" column="1" />
@@ -583,12 +609,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" timestamp="1529860754546">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="32" />
+      <file name="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" timestamp="1538243881563">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="49" />
         <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="32" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/fab.component.less" timestamp="1499020717241">
         <mark key="[" line="5" column="15" />
@@ -664,9 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.state.ts" />
-      <jump line="30" column="43" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" />
-      <jump line="82" column="5" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" />
       <jump line="39" column="58" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.effects.ts" />
       <jump line="16" column="3" filename="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.effects.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.component.haml" />
@@ -764,50 +787,53 @@
       <jump line="51" column="0" filename="$USER_HOME$/Projects/todo-app/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/package.json" />
       <jump line="54" column="9" filename="$USER_HOME$/Projects/todo-app/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/app.component.html" />
+      <jump line="7" column="45" filename="$USER_HOME$/Projects/todo-app/src/app/app-routing.module.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/app-routing.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>ie</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL3N0eWxlcy5zY3NzIgo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICdsaXN0LzppZCcgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICI+IDElIiwKICAgICJsYXN0IDIgdmVyc2lvbnMiLA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAidGhlbWUuc2NzcyI7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="8">
-        <text>candy
-candy</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTGlzdENvbXBvbmVudCB9IGZyb20gJy4vbGlzdC5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gUGx1cyBpbXBvcnRzIGZvciBvdGhlciBjb21wb25lbnRzIGluIHlvdXIgYXBwLgo=</text>
+        <text encoding="base64">PCEtLVRoZSBjb250ZW50IGJlbG93IGlzIG9ubHkgYSBwbGFjZWhvbGRlciBhbmQgY2FuIGJlIHJlcGxhY2VkLi0tPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+CiAgPGgxPgogICAgV2VsY29tZSB0byB7eyB0aXRsZSB9fSEKICA8L2gxPgogIDxpbWcgd2lkdGg9IjMwMCIgYWx0PSJBbmd1bGFyIExvZ28iIHNyYz0iZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhacFpYZENiM2c5SWpBZ01DQXlOVEFnTWpVd0lqNEtJQ0FnSUR4d1lYUm9JR1pwYkd3OUlpTkVSREF3TXpFaUlHUTlJazB4TWpVZ016Qk1NekV1T1NBMk15NHliREUwTGpJZ01USXpMakZNTVRJMUlESXpNR3czT0M0NUxUUXpMamNnTVRRdU1pMHhNak11TVhvaUlDOCtDaUFnSUNBOGNHRjBhQ0JtYVd4c1BTSWpRek13TURKR0lpQmtQU0pOTVRJMUlETXdkakl5TGpJdExqRldNak13YkRjNExqa3RORE11TnlBeE5DNHlMVEV5TXk0eFRERXlOU0F6TUhvaUlDOCtDaUFnSUNBOGNHRjBhQ0FnWm1sc2JEMGlJMFpHUmtaR1JpSWdaRDBpVFRFeU5TQTFNaTR4VERZMkxqZ2dNVGd5TGpab01qRXVOMnd4TVM0M0xUSTVMakpvTkRrdU5Hd3hNUzQzSURJNUxqSklNVGd6VERFeU5TQTFNaTR4ZW0weE55QTRNeTR6YUMwek5Hd3hOeTAwTUM0NUlERTNJRFF3TGpsNklpQXZQZ29nSUR3dmMzWm5QZz09Ij4KPC9kaXY+CjxoMj5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IHN0YXJ0OiA8L2gyPgo8dWw+CiAgPGxpPgogICAgPGgyPjxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIiBocmVmPSJodHRwczovL2FuZ3VsYXIuaW8vdHV0b3JpYWwiPlRvdXIgb2YgSGVyb2VzPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyL2FuZ3VsYXItY2xpL3dpa2kiPkNMSSBEb2N1bWVudGF0aW9uPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vYmxvZy5hbmd1bGFyLmlvLyI+QW5ndWxhciBibG9nPC9hPjwvaDI+CiAgPC9saT4KPC91bD4KCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAifkBhbmd1bGFyL21hdGVyaWFsL3ByZWJ1aWx0LXRoZW1lcy9pbmRpZ28tcGluay5jc3MiOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICI+IDElIiwKICAgICJsYXN0IDIgdmVyc2lvbnMiLA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAifkBhbmd1bGFyL21hdGVyaWFsL3ByZWJ1aWx0LXRoZW1lcy9pbmRpZ28tcGluay5jc3MiOwo=</text>
+        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">QGltcG9ydCAidGhlbWUuc2NzcyI7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+      <register name="9" type="8">
+        <text>candy
+candy</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
