@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" timestamp="1538257523751">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+      <file name="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" timestamp="1538340662313">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" timestamp="1538338884430">
-        <mark key="'" line="51" column="42" />
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="43" />
-        <mark key="." line="40" column="43" />
-        <mark key="^" line="40" column="54" />
+      <file name="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" timestamp="1538340948042">
+        <mark key="'" line="73" column="127" />
+        <mark key="[" line="73" column="125" />
+        <mark key="]" line="73" column="127" />
+        <mark key="." line="73" column="127" />
+        <mark key="^" line="73" column="127" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/list.component.ts" timestamp="1497573480828">
         <mark key="'" line="0" column="0" />
@@ -262,12 +262,12 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" timestamp="1538261198600">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" timestamp="1538340963247">
+        <mark key="'" line="35" column="55" />
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.effects.ts" timestamp="1501549893934">
         <mark key="'" line="16" column="3" />
@@ -737,12 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="41" filename="$USER_HOME$/git/fate-charsheet-2.0/src/common/pipes/entries.pipe.ts" />
-      <jump line="20" column="29" filename="$USER_HOME$/git/fate-charsheet-2.0/src/model/character-summary.ts" />
-      <jump line="29" column="47" filename="$USER_HOME$/git/fate-charsheet-2.0/src/model/character-summary.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/git/fate-charsheet-2.0/src/model/character-summary.ts" />
-      <jump line="2" column="9" filename="$USER_HOME$/git/fate-charsheet-2.0/src/model/character-summary.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/app.module.ts" />
       <jump line="13" column="8" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/app.module.ts" />
       <jump line="28" column="8" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/app.module.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/app.module.ts" />
@@ -830,65 +824,71 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
-      <jump line="57" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
       <jump line="3" column="30" filename="$USER_HOME$/Projects/todo-app/src/model/Task.ts" />
       <jump line="11" column="12" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
       <jump line="59" column="15" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
       <jump line="12" column="23" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
       <jump line="52" column="42" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
+      <jump line="57" column="7" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
+      <jump line="69" column="47" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
+      <jump line="8" column="40" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
+      <jump line="35" column="55" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
+      <jump line="2" column="12" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
+      <jump line="6" column="12" filename="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" />
+      <jump line="73" column="127" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYgRW50aXR5PEs+</text>
+        <text encoding="base64">c3RyaW5nLCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYgRW50aXR5PEs+</text>
+        <text encoding="base64">c3RyaW5nLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>output</text>
+        <text>TaskSt</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">UyBleHRlbmRzIEVudGl0eVN0YXRlPEssIEU+LCA=</text>
+        <text>string | number</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLmFkZGl0aW9uYWxTdGF0ZSwK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgRW50aXR5SWQgPSBzdHJpbmcgfCBudW1iZXI7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGZvbzxTPigKICBhZGRpdGlvbmFsU3RhdGU6IFMKKTogUyB7CiAgcmV0dXJuIHsgLi4uPGFueT5hZGRpdGlvbmFsU3RhdGUgfTsKfQoK</text>
+        <text encoding="base64">CnR5cGUgRW50aXR5SWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0ZTogRW50aXR5U3RhdGU8SywgRT4gJiBTCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRhc2s6IFRhc2sgPSB0YXNrc1thY3Rpb24udGFzay5pZF07CiAgICBjb25zdCB1cGRhdGVkVGFzazogVGFzayA9IHsgLi4udGFzaywgLi4uYWN0aW9uLnRhc2sgfTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkczogW10sCiAgICBlbnRpdGllczoge30K</text>
+        <text encoding="base64">ICAgICAgaWRzOiBbIC4uLmlkcywgaWQgXSwKICAgICAgdGFza3M6IHsgLi4udGFza3MsIGlkOiB0YXNrIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gYWRkaXRpb25hbFN0YXRlOwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSBlbnRpdHk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi4vbW9kZWwvRW50aXR5U3RhdGUnOwo=</text>
+        <text encoding="base64">CiAgY29uc3QgZW50aXR5ID0gZW50aXRpZXNbaWRdOwogIGNvbnN0IHVwZGF0ZSA9IHsgLi4uPGFueT5lbnRpdHksIC4uLmVudGl0eVRvVXBkYXRlIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC4uLmFkZGl0aW9uYWxTdGF0ZSwK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGlkczogW10sCiAgICB0YXNrczoge30=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGZvbzxTPigKICBhZGRpdGlvbmFsU3RhdGU6IFMKKTogUyB7CiAgcmV0dXJuIHsgLi4uPGFueT5hZGRpdGlvbmFsU3RhdGUgfTsKfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZHM6IHN0cmluZ1tdOwogIHRhc2tzOiB7IFtrZXk6IHN0cmluZ106IFRhc2sgfTsK</text>
+        <text encoding="base64">ICBzdGF0ZTogRW50aXR5U3RhdGU8SywgRT4gJiBTCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>output</last-search>
+      <last-search>TaskSt</last-search>
       <last-offset />
-      <last-pattern>output</last-pattern>
+      <last-pattern>TaskSt</last-pattern>
       <last-replace>active</last-replace>
       <last-substitute>default</last-substitute>
       <last-dir>1</last-dir>
@@ -896,7 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>.stunt</entry>
         <entry>stunt</entry>
         <entry>profileConig</entry>
@@ -916,6 +915,7 @@
         <entry>sass</entry>
         <entry>styles</entry>
         <entry>output</entry>
+        <entry>TaskSt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
