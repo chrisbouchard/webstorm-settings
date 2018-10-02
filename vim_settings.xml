@@ -465,6 +465,12 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/app/list.component.html" timestamp="1538438186505">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/index.ts" timestamp="1497918654294">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="42" />
@@ -572,11 +578,11 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/list.component.ts" timestamp="1538438040414">
+      <file name="$USER_HOME$/Projects/todo-app/src/app/list.component.ts" timestamp="1538438059867">
         <mark key="'" line="15" column="22" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="26" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
         <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/tsconfig.json" timestamp="1538344237098">
@@ -854,11 +860,11 @@
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cl=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>TaskSt</text>
@@ -867,31 +873,31 @@
         <text encoding="base64">ICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFza3MkID0gc3RvcmUuc2VsZWN0KFRhc2tTdGF0ZS4pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXh0ZW5kcyB9IGZyb20gJ3RzbGludC9saWIvY29uZmlncy9sYXRlc3QnOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHA+CiAgbGlzdCB3b3JrcyEKPC9wPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgbmdPbkluaXQoKSB7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIHRoaXMudGFza3MkID0gc3RvcmUuc2VsZWN0KFRhc2tTdGF0ZS4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgZXh0ZW5kcyB9IGZyb20gJ3RzbGludC9saWIvY29uZmlncy9sYXRlc3QnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wbGV0ZVRhc2soY3R4OiBTdGF0ZUNvbnRleHQ8VGFza1N0YXRlTW9kZWw+LCBhY3Rpb246IFVwZGF0ZVRhc2spIHsK</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wbGV0ZVRhc2soY3R4OiBTdGF0ZUNvbnRleHQ8VGFza1N0YXRlTW9kZWw+LCBhY3Rpb246IFVwZGF0ZVRhc2spIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
