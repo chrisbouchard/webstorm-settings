@@ -125,6 +125,11 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/package.json" timestamp="1539311214122">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.component.haml" timestamp="1501558186403">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="12" column="0" />
@@ -354,6 +359,9 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.module.ts" timestamp="1539311326531">
+        <mark key="'" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack/webpack.common.js" timestamp="1500346382339">
         <mark key="'" line="186" column="0" />
@@ -751,8 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="25" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" />
       <jump line="7" column="12" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" />
       <jump line="44" column="6" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character.actions.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.css" />
@@ -851,6 +857,8 @@
       <jump line="4" column="3" filename="$USER_HOME$/Projects/todo-app/src/app/list.component.html" />
       <jump line="23" column="17" filename="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" />
       <jump line="0" column="10" filename="$USER_HOME$/Projects/todo-app/src/app/list.component.html" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.module.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
