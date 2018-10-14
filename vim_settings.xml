@@ -179,8 +179,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539483492960">
-        <mark key="'" line="68" column="11" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539537725240">
+        <mark key="'" line="12" column="38" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.haml" timestamp="1499020583473">
         <mark key="'" line="83" column="50" />
@@ -203,10 +207,10 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/package.json" timestamp="1539473358169">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="35" column="35" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/package.json" timestamp="1539536924070">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="27" />
+        <mark key="." line="54" column="27" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/ui.module.ts" timestamp="1502057216862">
         <mark key="'" line="13" column="0" />
@@ -358,11 +362,11 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.ts" timestamp="1539483837475">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.ts" timestamp="1539537599912">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character.actions.ts" timestamp="1520042118800">
         <mark key="'" line="44" column="6" />
@@ -623,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="$USER_HOME$/Projects/todo-app/src/index.html" />
       <jump line="12" column="24" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="29" column="27" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="78" column="27" filename="$USER_HOME$/Projects/todo-app/angular.json" />
@@ -723,16 +726,17 @@
       <jump line="8" column="42" filename="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" />
       <jump line="68" column="11" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="12" column="38" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">SWRPZjxFPg==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SWRPZjxFPg==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>entity</text>
@@ -741,31 +745,31 @@
         <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBnZXRFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWQ6IElkT2Y8RT4sIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEUgfCB1bmRlZmluZWQgewogIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogIGlmICghaWRzLmluY2x1ZGVzKGlkKSkgewogICAgcmV0dXJuIHVuZGVmaW5lZDsKICB9CgogIHJldHVybiBlbnRpdGllc1tpZF07Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtLIGluIElkT2Y8RT5dPzogRTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBpbml0aWFsU3RhdGU8RSBleHRlbmRzIEVudGl0eT4oKTogRW50aXR5U3RhdGU8RT4gewogICAgcmV0dXJuIHsKICAgICAgICBpZHM6IFtdLAogICAgICAgIGVudGl0aWVzOiB7fQogICAgfTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEFsbEVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEVbXSB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwogICAgcmV0dXJuIGlkcy5tYXAoaWQgPT4gZW50aXRpZXNbaWRdKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihpZDogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRSB8IHVuZGVmaW5lZCB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwoKICAgIGlmICghaWRzLmluY2x1ZGVzKGlkKSkgewogICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CgogICAgcmV0dXJuIGVudGl0aWVzW2lkXTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGFkZEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihlbnRpdHk6IEUsIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEVudGl0eVN0YXRlPEU+IHsKICAgIGNvbnN0IHsgaWQgfSA9IGVudGl0eTsKICAgIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogICAgaWYgKGlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBpZHM6IFsuLi5pZHMsIGlkXSwKICAgICAgICBlbnRpdGllczogeyAuLi5lbnRpdGllcywgW2lkXTogZW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZXBsYWNlRW50aXR5PEUgZXh0ZW5kcyBFbnRpdHk+KGVudGl0eTogRSwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZCB9ID0gZW50aXR5OwogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBlbnRpdGllczogeyAuLi5lbnRpdGllcywgW2lkXTogZW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiB1cGRhdGVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oCiAgICBpZDogSWRPZjxFPiwKICAgIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgY29uc3QgZW50aXR5ID0gZW50aXRpZXNbaWRdOwogICAgY29uc3QgdXBkYXRlZEVudGl0eSA9IHVwZGF0ZShlbnRpdHksIGlkKTsKCiAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGVudGl0aWVzOiB7IC4uLmVudGl0aWVzLCBbaWRdOiB1cGRhdGVkRW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZW1vdmVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWRUb0RlbGV0ZTogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZHMgfSA9IHN0YXRlOwoKICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgaWRzOiBpZHMuZmlsdGVyKGlkID0+IGlkICE9PSBpZFRvRGVsZXRlKQogICAgfTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjaGFyYWN0ZXJJZHM6IHN0cmluZ1tdOwo=</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBpbml0aWFsU3RhdGU8RSBleHRlbmRzIEVudGl0eT4oKTogRW50aXR5U3RhdGU8RT4gewogICAgcmV0dXJuIHsKICAgICAgICBpZHM6IFtdLAogICAgICAgIGVudGl0aWVzOiB7fQogICAgfTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEFsbEVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEVbXSB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwogICAgcmV0dXJuIGlkcy5tYXAoaWQgPT4gZW50aXRpZXNbaWRdKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihpZDogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRSB8IHVuZGVmaW5lZCB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwoKICAgIGlmICghaWRzLmluY2x1ZGVzKGlkKSkgewogICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CgogICAgcmV0dXJuIGVudGl0aWVzW2lkXTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGFkZEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihlbnRpdHk6IEUsIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEVudGl0eVN0YXRlPEU+IHsKICAgIGNvbnN0IHsgaWQgfSA9IGVudGl0eTsKICAgIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogICAgaWYgKGlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBpZHM6IFsuLi5pZHMsIGlkXSwKICAgICAgICBlbnRpdGllczogeyAuLi5lbnRpdGllcywgW2lkXTogZW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZXBsYWNlRW50aXR5PEUgZXh0ZW5kcyBFbnRpdHk+KGVudGl0eTogRSwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZCB9ID0gZW50aXR5OwogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBlbnRpdGllczogeyAuLi5lbnRpdGllcywgW2lkXTogZW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiB1cGRhdGVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oCiAgICBpZDogSWRPZjxFPiwKICAgIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgY29uc3QgZW50aXR5ID0gZW50aXRpZXNbaWRdOwogICAgY29uc3QgdXBkYXRlZEVudGl0eSA9IHVwZGF0ZShlbnRpdHksIGlkKTsKCiAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGVudGl0aWVzOiB7IC4uLmVudGl0aWVzLCBbaWRdOiB1cGRhdGVkRW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZW1vdmVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWRUb0RlbGV0ZTogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZHMgfSA9IHN0YXRlOwoKICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgaWRzOiBpZHMuZmlsdGVyKGlkID0+IGlkICE9PSBpZFRvRGVsZXRlKQogICAgfTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwbGF5ZXJJZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">CiAgICBjaGFyYWN0ZXJJZHM6IHN0cmluZ1tdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBwbGF5ZXJJZDogc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
