@@ -179,12 +179,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539539059836">
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539539743616">
         <mark key="'" line="12" column="37" />
-        <mark key="[" line="10" column="74" />
-        <mark key="]" line="10" column="74" />
-        <mark key="." line="10" column="74" />
-        <mark key="^" line="12" column="18" />
+        <mark key="[" line="74" column="30" />
+        <mark key="]" line="74" column="48" />
+        <mark key="^" line="74" column="48" />
+        <mark key="." line="74" column="48" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.haml" timestamp="1499020583473">
         <mark key="'" line="83" column="50" />
@@ -585,10 +585,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/tsconfig.json" timestamp="1539474284192">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/tsconfig.json" timestamp="1539539199172">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1523828357465">
         <mark key="'" line="21" column="0" />
@@ -739,10 +740,10 @@
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHwgdW5kZWZpbmVkKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgdW5kZWZpbmVkKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>entity</text>
