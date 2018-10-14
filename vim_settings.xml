@@ -10,12 +10,6 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" timestamp="1538347396997">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/list.component.ts" timestamp="1497573480828">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="37" />
@@ -36,12 +30,6 @@
         <mark key="]" line="24" column="28" />
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/tsconfig.app.json" timestamp="1520044435190">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" timestamp="1529891283755">
         <mark key="'" line="1" column="0" />
@@ -64,28 +52,18 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/tsconfig.json" timestamp="1520044838882">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/ng-package.json" timestamp="1539473522189">
+        <mark key="'" line="4" column="32" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/.editorconfig" timestamp="1539445848545">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab.component.haml" timestamp="1502056675778">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="63" />
-        <mark key="." line="1" column="63" />
-        <mark key="^" line="1" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/item.component.ts" timestamp="1538245175445">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.reducer.ts" timestamp="1501550957544">
         <mark key="'" line="94" column="23" />
@@ -94,16 +72,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/model/adds-shifts.ts" timestamp="1501272072878">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/styles.sass" timestamp="1529861038821">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" timestamp="1539480952125">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/ui.reducer.ts" timestamp="1497729083241">
         <mark key="'" line="4" column="69" />
@@ -112,17 +86,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/test/index.ts" timestamp="1500685881131">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="24" column="33" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab-list.component.haml" timestamp="1502057719520">
-        <mark key="[" line="1" column="102" />
-        <mark key="]" line="1" column="101" />
-        <mark key="." line="1" column="101" />
-        <mark key="^" line="1" column="101" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/test.ts" timestamp="1539473245987">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.haml" timestamp="1499020583473">
         <mark key="'" line="83" column="50" />
@@ -138,9 +103,9 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/package.json" timestamp="1539311214122">
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="35" column="35" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/package.json" timestamp="1539473358169">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="38" />
         <mark key="." line="35" column="35" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.component.haml" timestamp="1501558186403">
@@ -149,6 +114,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/model/EntityState.ts" timestamp="1539474051808">
+        <mark key="'" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.ts" timestamp="1539445250701">
         <mark key="[" line="14" column="55" />
@@ -162,17 +130,6 @@
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/task.component.ts" timestamp="1538245185333">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/model/player.ts" timestamp="1539472484785">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack/test-prod.profile.js" timestamp="1500686849694">
         <mark key="'" line="7" column="0" />
@@ -195,18 +152,6 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/model/aspect.ts" timestamp="1501272168823">
-        <mark key="[" line="0" column="57" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/.angular-cli.json" timestamp="1520042923681">
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="2" />
-        <mark key="." line="59" column="2" />
-        <mark key="^" line="59" column="2" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.reducer.ts" timestamp="1510292537159">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="50" />
@@ -214,11 +159,11 @@
         <mark key="." line="0" column="50" />
         <mark key="^" line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/tslint.json" timestamp="1510281154771">
-        <mark key="[" line="143" column="15" />
-        <mark key="]" line="143" column="20" />
-        <mark key="." line="143" column="20" />
-        <mark key="^" line="143" column="20" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/tsconfig.lib.json" timestamp="1539474314627">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character.actions.ts" timestamp="1520042118800">
         <mark key="'" line="44" column="6" />
@@ -234,42 +179,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/styles.less" timestamp="1510281617178">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/polyfills.ts" timestamp="1529860830776">
-        <mark key="[" line="79" column="3" />
-        <mark key="]" line="80" column="17" />
-        <mark key="^" line="80" column="17" />
-        <mark key="." line="80" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/test/index.aot.ts" timestamp="1500767476902">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab.component.less" timestamp="1502042654413">
         <mark key="'" line="15" column="15" />
         <mark key="[" line="0" column="7" />
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-sheet/aspect.component.ts" timestamp="1517453947759">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/karma.prod.conf.js" timestamp="1500352001373">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/src/app/app-routing.module.ts" timestamp="1538441916212">
         <mark key="'" line="4" column="0" />
@@ -299,30 +214,12 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack.test-prod.config.js" timestamp="1500600763223">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.module.ts" timestamp="1500846462142">
-        <mark key="[" line="29" column="6" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="29" column="4" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character.actions.ts" timestamp="1501549304802">
         <mark key="'" line="82" column="5" />
         <mark key="[" line="80" column="6" />
         <mark key="]" line="82" column="5" />
         <mark key="." line="82" column="5" />
         <mark key="^" line="82" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/test/vendor.ts" timestamp="1501184725096">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.state.ts" timestamp="1497586746343">
         <mark key="'" line="0" column="0" />
@@ -352,11 +249,6 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/app.component.html" timestamp="1538183674005">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character-page.component.haml" timestamp="1502057429396">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="78" />
@@ -370,12 +262,6 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="45" column="29" />
         <mark key="^" line="45" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/karma.conf.js" timestamp="1529891160612">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="33" column="1" />
-        <mark key="^" line="33" column="1" />
-        <mark key="." line="33" column="1" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/common/util/sets.ts" timestamp="1497572961920">
         <mark key="'" line="8" column="0" />
@@ -397,12 +283,6 @@
         <mark key="." line="75" column="65" />
         <mark key="^" line="75" column="66" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-viewer.component.html" timestamp="1517679223078">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="1" column="57" />
-        <mark key="^" line="1" column="57" />
-        <mark key="." line="1" column="57" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/stress-box.component.ts" timestamp="1497574766667">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="0" column="0" />
@@ -417,18 +297,17 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/tsconfig.json" timestamp="1539474284192">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" timestamp="1523841205886">
         <mark key="'" line="19" column="17" />
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/model/consequence.ts" timestamp="1501272164716">
-        <mark key="[" line="0" column="57" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.spec.ts" timestamp="1539471590611">
         <mark key="'" line="6" column="17" />
@@ -444,9 +323,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.spec.ts" timestamp="1539471566872">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="50" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/index.ts" timestamp="1539480907832">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.css" timestamp="1523831208516">
         <mark key="'" line="9" column="0" />
@@ -455,29 +336,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/styles.scss" timestamp="1529861564065">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/package.json" timestamp="1532830497570">
+      <file name="$USER_HOME$/Projects/todo-app/package.json" timestamp="1539481873731">
         <mark key="'" line="54" column="9" />
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="55" column="13" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="25" />
+        <mark key="." line="54" column="25" />
         <mark key="^" line="55" column="10" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/common/typed-record.ts" timestamp="1497572993695">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="44" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/fab-action.component.ts" timestamp="1499018607369">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.ts" timestamp="1499017233686">
         <mark key="'" line="73" column="50" />
@@ -492,12 +356,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/mocha-webpack.opts" timestamp="1500604430649">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-        <mark key="^" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack.test-dev.config.js" timestamp="1500600746722">
         <mark key="'" line="11" column="1" />
@@ -527,36 +385,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/tsconfig.json" timestamp="1500355119087">
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-sheet/character-sheet.component.ts" timestamp="1517453987902">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.ts" timestamp="1539444234571">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" timestamp="1539472223396">
         <mark key="'" line="1" column="3" />
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/package.json" timestamp="1519956329593">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/ui.module.ts" timestamp="1502057216862">
         <mark key="'" line="13" column="0" />
@@ -579,30 +413,12 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/character/character-id-resolver.service.ts" timestamp="1500343976454">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="10" column="39" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/README.md" timestamp="1501183731925">
         <mark key="'" line="18" column="9" />
         <mark key="[" line="46" column="3" />
         <mark key="]" line="46" column="2" />
         <mark key="." line="46" column="2" />
         <mark key="^" line="46" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.html" timestamp="1539471021170">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/item.state.ts" timestamp="1538244337598">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack.config.js" timestamp="1500600591794">
         <mark key="'" line="8" column="51" />
@@ -639,6 +455,9 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/angular.json" timestamp="1539481088958">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/todo-app/src/app/list.component.ts" timestamp="1538438059867">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="13" column="26" />
@@ -646,9 +465,9 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/tsconfig.json" timestamp="1538344237098">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="11" column="17" />
+      <file name="$USER_HOME$/Projects/todo-app/tsconfig.json" timestamp="1539474266497">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
@@ -672,24 +491,6 @@
         <mark key="]" line="211" column="45" />
         <mark key="." line="211" column="45" />
         <mark key="^" line="211" column="45" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/app/app.module.ts" timestamp="1510281049744">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="40" />
-        <mark key="." line="6" column="64" />
-        <mark key="^" line="6" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/app.component.ts" timestamp="1510292972345">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-viewer.component.ts" timestamp="1517679165680">
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="21" column="57" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab.component.ts" timestamp="1502057232418">
         <mark key="'" line="1" column="0" />
@@ -726,12 +527,6 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/app.routes.ts" timestamp="1510292505375">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" timestamp="1538442832080">
         <mark key="'" line="24" column="17" />
         <mark key="[" line="22" column="28" />
@@ -739,11 +534,11 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/fab.component.less" timestamp="1499020717241">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" timestamp="1539480785221">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/monolite/src/tests/set.spec.ts" timestamp="1497505934446">
         <mark key="'" line="79" column="5" />
@@ -759,18 +554,6 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab-list.component.less" timestamp="1502057150497">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character.module.ts" timestamp="1523818431608">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.html" timestamp="1539471045626">
         <mark key="'" line="1" column="3" />
         <mark key="[" line="23" column="18" />
@@ -778,17 +561,8 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/git/fate-charsheet-2.0/src/common/character-facade.ts" timestamp="1501806760209">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/git/fate-charsheet-ng/src/index.html" timestamp="1510293003418">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.ts" timestamp="1539481222934">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/character-menu.component.html" timestamp="1523828357465">
         <mark key="'" line="21" column="0" />
@@ -796,6 +570,12 @@
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" timestamp="1539481228706">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/angular.json" timestamp="1538344217601">
         <mark key="'" line="0" column="0" />
@@ -820,22 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="5" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="12" column="16" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="239" column="17" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="8" column="10" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="240" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="238" column="30" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="1" column="18" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="208" column="5" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="207" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="11" column="70" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="1" column="50" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
-      <jump line="3" column="46" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
-      <jump line="7" column="72" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
-      <jump line="12" column="76" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
-      <jump line="16" column="17" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
       <jump line="19" column="17" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
       <jump line="214" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
       <jump line="11" column="20" filename="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" />
@@ -920,58 +684,74 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" />
       <jump line="1" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" />
       <jump line="2" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/character.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/test.ts" />
+      <jump line="5" column="36" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" />
+      <jump line="4" column="32" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/ng-package.json" />
+      <jump line="16" column="37" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/model/EntityState.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/tsconfig.lib.json" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
+      <jump line="12" column="4" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
+      <jump line="81" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" />
+      <jump line="44" column="46" filename="$USER_HOME$/Projects/ng-fate-charsheet/angular.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/angular.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjaGFyYWN0ZXJJZHM6IHN0cmluZ1tdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FrameComponent</text>
+        <text>lib/entity.module</text>
       </register>
       <register name="/" type="4">
-        <text>TaskSt</text>
+        <text>entity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQ6IEZyYW1lQ29tcG9uZW50OwogICAgbGV0IGZpeHR1cmU6IENvbXBvbmVudEZpeHR1cmU8RnJhbWVDb21wb25lbnQ+Owo=</text>
+        <text encoding="base64">ICAgICAgICAic3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjaGFyYWN0ZXJJZHM6IHN0cmluZ1tdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwbGF5ZXJJZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBpbml0aWFsU3RhdGU8RSBleHRlbmRzIEVudGl0eT4oKTogRW50aXR5U3RhdGU8RT4gewogICAgcmV0dXJuIHsKICAgICAgICBpZHM6IFtdLAogICAgICAgIGVudGl0aWVzOiB7fQogICAgfTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEFsbEVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEVbXSB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwogICAgcmV0dXJuIGlkcy5tYXAoaWQgPT4gZW50aXRpZXNbaWRdKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihpZDogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRSB8IHVuZGVmaW5lZCB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwoKICAgIGlmICghaWRzLmluY2x1ZGVzKGlkKSkgewogICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CgogICAgcmV0dXJuIGVudGl0aWVzW2lkXTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGFkZEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihlbnRpdHk6IEUsIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEVudGl0eVN0YXRlPEU+IHsKICAgIGNvbnN0IHsgaWQgfSA9IGVudGl0eTsKICAgIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogICAgaWYgKGlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBpZHM6IFsuLi5pZHMsIGlkXSwKICAgICAgICBlbnRpdGllczogeyAuLi5lbnRpdGllcywgW2lkXTogZW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZXBsYWNlRW50aXR5PEUgZXh0ZW5kcyBFbnRpdHk+KGVudGl0eTogRSwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZCB9ID0gZW50aXR5OwogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBlbnRpdGllczogeyAuLi5lbnRpdGllcywgW2lkXTogZW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiB1cGRhdGVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oCiAgICBpZDogSWRPZjxFPiwKICAgIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICB9CgogICAgY29uc3QgZW50aXR5ID0gZW50aXRpZXNbaWRdOwogICAgY29uc3QgdXBkYXRlZEVudGl0eSA9IHVwZGF0ZShlbnRpdHksIGlkKTsKCiAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGVudGl0aWVzOiB7IC4uLmVudGl0aWVzLCBbaWRdOiB1cGRhdGVkRW50aXR5IH0KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZW1vdmVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWRUb0RlbGV0ZTogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlPEU+KTogRW50aXR5U3RhdGU8RT4gewogICAgY29uc3QgeyBpZHMgfSA9IHN0YXRlOwoKICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgaWRzOiBpZHMuZmlsdGVyKGlkID0+IGlkICE9PSBpZFRvRGVsZXRlKQogICAgfTsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBjaGFyYWN0ZXJJZHM6IHN0cmluZ1tdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXAK</text>
+        <text encoding="base64">CiAgICBwbGF5ZXJJZDogc3RyaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBpdCgnc2hvdWxkIGNyZWF0ZSB0aGUgYXBwJywgKCkgPT4gewogICAgICAgIGNvbnN0IGZpeHR1cmUgPSBUZXN0QmVkLmNyZWF0ZUNvbXBvbmVudChBcHBDb21wb25lbnQpOwogICAgICAgIGNvbnN0IGFwcCA9IGZpeHR1cmUuZGVidWdFbGVtZW50LmNvbXBvbmVudEluc3RhbmNlOwogICAgICAgIGV4cGVjdChhcHApLnRvQmVUcnV0aHkoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpdChgc2hvdWxkIGhhdmUgYXMgdGl0bGUgJ25nLWZhdGUtY2hhcnNoZWV0J2AsICgpID0+IHsKICAgICAgICBjb25zdCBmaXh0dXJlID0gVGVzdEJlZC5jcmVhdGVDb21wb25lbnQoQXBwQ29tcG9uZW50KTsKICAgICAgICBjb25zdCBhcHAgPSBmaXh0dXJlLmRlYnVnRWxlbWVudC5jb21wb25lbnRJbnN0YW5jZTsKICAgICAgICBleHBlY3QoYXBwLnRpdGxlKS50b0VxdWFsKCduZy1mYXRlLWNoYXJzaGVldCcpOwogICAgfSk7CgogICAgaXQoJ3Nob3VsZCByZW5kZXIgdGl0bGUgaW4gYSBoMSB0YWcnLCAoKSA9PiB7CiAgICAgICAgY29uc3QgZml4dHVyZSA9IFRlc3RCZWQuY3JlYXRlQ29tcG9uZW50KEFwcENvbXBvbmVudCk7CiAgICAgICAgZml4dHVyZS5kZXRlY3RDaGFuZ2VzKCk7CiAgICAgICAgY29uc3QgY29tcGlsZWQgPSBmaXh0dXJlLmRlYnVnRWxlbWVudC5uYXRpdmVFbGVtZW50OwogICAgICAgIGV4cGVjdChjb21waWxlZC5xdWVyeVNlbGVjdG9yKCdoMScpLnRleHRDb250ZW50KS50b0NvbnRhaW4oJ1dlbGNvbWUgdG8gbmctZmF0ZS1jaGFyc2hlZXQhJyk7CiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TaskSt</last-search>
+      <last-search>entity</last-search>
       <last-offset />
-      <last-pattern>TaskSt</last-pattern>
+      <last-pattern>entity</last-pattern>
       <last-replace>active</last-replace>
       <last-substitute>default</last-substitute>
       <last-dir>1</last-dir>
@@ -979,7 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.stunt</entry>
         <entry>stunt</entry>
         <entry>profileConig</entry>
         <entry encoding="base64">XDxwcm9maWxlQ29uZmlnXD4=</entry>
@@ -999,6 +778,7 @@
         <entry>styles</entry>
         <entry>output</entry>
         <entry>TaskSt</entry>
+        <entry>entity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
