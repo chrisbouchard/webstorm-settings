@@ -10,12 +10,6 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" timestamp="1539523950726">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/list.component.ts" timestamp="1497573480828">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="37" />
@@ -146,6 +140,13 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.module.ts" timestamp="1539560451635">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack/test-prod.profile.js" timestamp="1500686849694">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="13" column="38" />
@@ -159,6 +160,9 @@
         <mark key="]" line="15" column="17" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.module.ts" timestamp="1539559011452">
+        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/src/theme.scss" timestamp="1529861509973">
         <mark key="'" line="17" column="77" />
@@ -194,6 +198,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.state.ts" timestamp="1539558499199">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/character-tab.component.less" timestamp="1502042654413">
         <mark key="'" line="15" column="15" />
         <mark key="[" line="0" column="7" />
@@ -215,8 +226,8 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" timestamp="1538347910805">
-        <mark key="'" line="18" column="10" />
+      <file name="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" timestamp="1539557442143">
+        <mark key="'" line="25" column="37" />
         <mark key="[" line="25" column="37" />
         <mark key="]" line="25" column="37" />
         <mark key="." line="25" column="37" />
@@ -243,12 +254,23 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" timestamp="1539555365316">
+      <file name="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" timestamp="1539557450231">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.state.ts" timestamp="1539560746224">
+        <mark key="[" line="25" column="83" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.ts" timestamp="1539558508672">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/webpack/test.profile.js" timestamp="1500349120320">
         <mark key="'" line="4" column="0" />
@@ -325,6 +347,13 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" timestamp="1539558297747">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.spec.ts" timestamp="1539471590611">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="6" column="34" />
@@ -339,10 +368,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.state.ts" timestamp="1539555960617">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.state.ts" timestamp="1539560517951">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="141" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
@@ -366,6 +395,13 @@
         <mark key="." line="54" column="25" />
         <mark key="^" line="55" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.service.ts" timestamp="1539560599649">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.ts" timestamp="1499017233686">
         <mark key="'" line="73" column="50" />
         <mark key="[" line="73" column="45" />
@@ -386,6 +422,13 @@
         <mark key="]" line="2" column="53" />
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign-data.service.ts" timestamp="1539559507146">
+        <mark key="'" line="15" column="10" />
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/src/app/list.component.html" timestamp="1538442666400">
         <mark key="'" line="0" column="10" />
@@ -520,12 +563,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.ts" timestamp="1539537599912">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" timestamp="1523841891054">
         <mark key="'" line="218" column="0" />
         <mark key="[" line="211" column="36" />
@@ -602,12 +639,6 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/polyfills.ts" timestamp="1539538907913">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.html" timestamp="1539471045626">
         <mark key="'" line="1" column="3" />
         <mark key="[" line="23" column="18" />
@@ -654,29 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" />
-      <jump line="10" column="27" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="48" column="17" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="18" column="10" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="11" column="21" filename="$USER_HOME$/Projects/todo-app/src/app/list.component.ts" />
-      <jump line="12" column="22" filename="$USER_HOME$/Projects/todo-app/src/app/list.component.ts" />
-      <jump line="4" column="3" filename="$USER_HOME$/Projects/todo-app/src/app/list.component.html" />
-      <jump line="23" column="17" filename="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" />
-      <jump line="0" column="10" filename="$USER_HOME$/Projects/todo-app/src/app/list.component.html" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.module.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.module.ts" />
-      <jump line="15" column="20" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.html" />
-      <jump line="8" column="51" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.module.ts" />
-      <jump line="12" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.html" />
-      <jump line="1" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.html" />
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.html" />
-      <jump line="0" column="11" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.html" />
-      <jump line="23" column="12" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.html" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.html" />
-      <jump line="1" column="20" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.html" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.spec.ts" />
       <jump line="6" column="17" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/app.component.spec.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" />
@@ -741,7 +749,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.state.ts" />
       <jump line="146" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.state.ts" />
       <jump line="20" column="30" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
       <jump line="9" column="29" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.action.ts" />
       <jump line="7" column="43" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.action.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.action.ts" />
@@ -754,66 +761,89 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.ts" />
       <jump line="5" column="20" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.state.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/index.ts" />
+      <jump line="2" column="49" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.state.ts" />
+      <jump line="3" column="44" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.state.ts" />
+      <jump line="14" column="28" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.state.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.state.ts" />
+      <jump line="25" column="37" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="10" column="32" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="2" column="38" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="17" column="41" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.module.ts" />
+      <jump line="9" column="47" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign-data.service.ts" />
+      <jump line="12" column="16" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign-data.service.ts" />
+      <jump line="4" column="38" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign-data.service.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign-data.service.ts" />
+      <jump line="15" column="10" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign-data.service.ts" />
+      <jump line="10" column="20" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.service.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.state.ts" />
+      <jump line="9" column="36" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvZW50aXR5LmFjdGlvbnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>Entity</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvZW50aXR5LnN0YXRlJzsK</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldEFsbEVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+KTogRVtdIHsKICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsKICAgIHJldHVybiBnZXRFbnRpdGllcyhpZHMsIHN0YXRlKQogICAgICAgIC5maWx0ZXIoZW50aXR5ID0+IGVudGl0eSAhPT0gdW5kZWZpbmVkKSBhcyBFW107Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZXRFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWQ6IElkT2Y8RT4sIHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+KTogRSB8IHVuZGVmaW5lZCB7CiAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwoKICAgIGlmICghaWRzLmluY2x1ZGVzKGlkKSkgewogICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CgogICAgLyogQ2FzdGluZyB1bnRpbCBNaWNyb3NvZnQvVHlwZVNjcmlwdCMyNzg5NSBpcyByZXNvbHZlZC4gKi8KICAgIHJldHVybiBlbnRpdGllc1tpZCBhcyBzdHJpbmcgfCBudW1iZXJdOwp9CgpleHBvcnQgZnVuY3Rpb24gZ2V0RW50aXRpZXM8RSBleHRlbmRzIEVudGl0eT4oaWRzOiBJZE9mPEU+W10sIHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+KTogKEUgfCB1bmRlZmluZWQpW10gewogICAgcmV0dXJuIGlkcy5tYXAoaWQgPT4gZ2V0RW50aXR5KGlkLCBzdGF0ZSkpOwp9CgoKZXhwb3J0IGZ1bmN0aW9uIGFkZEVudGl0eTxFIGV4dGVuZHMgRW50aXR5PihlbnRpdHlUb0FkZDogRSwgc3RhdGU6IEVudGl0eVN0YXRlTW9kZWw8RT4pOiBFbnRpdHlTdGF0ZU1vZGVsPEU+IHsKICAgIGNvbnN0IHsgaWQgfSA9IGVudGl0eVRvQWRkOwogICAgY29uc3QgeyBpZHMsIGVudGl0aWVzIH0gPSBzdGF0ZTsKCiAgICBpZiAoaWRzLmluY2x1ZGVzKGlkKSkgewogICAgICAgIHJldHVybiBzdGF0ZTsKICAgIH0KCiAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGlkczogWy4uLmlkcywgaWRdLAogICAgICAgIGVudGl0aWVzOiB7IC4uLmVudGl0aWVzLCBbaWRdOiBlbnRpdHlUb0FkZCB9CiAgICB9Owp9CgpleHBvcnQgZnVuY3Rpb24gYWRkRW50aXRpZXM8RSBleHRlbmRzIEVudGl0eT4oZW50aXRpZXNUb0FkZDogRVtdLCBzdGF0ZTogRW50aXR5U3RhdGVNb2RlbDxFPik6IEVudGl0eVN0YXRlTW9kZWw8RT4gewogICAgcmV0dXJuIGVudGl0aWVzVG9BZGQucmVkdWNlKChzdGF0ZUFjYywgZW50aXR5KSA9PiBhZGRFbnRpdHkoZW50aXR5LCBzdGF0ZUFjYyksIHN0YXRlKTsKfQoKCmV4cG9ydCBmdW5jdGlvbiByZXBsYWNlRW50aXR5PEUgZXh0ZW5kcyBFbnRpdHk+KGVudGl0eVRvUmVwbGFjZTogRSwgc3RhdGU6IEVudGl0eVN0YXRlTW9kZWw8RT4pOiBFbnRpdHlTdGF0ZU1vZGVsPEU+IHsKICAgIGNvbnN0IHsgaWQgfSA9IGVudGl0eVRvUmVwbGFjZTsKICAgIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogICAgaWYgKCFpZHMuaW5jbHVkZXMoaWQpKSB7CiAgICAgICAgcmV0dXJuIHN0YXRlOwogICAgfQoKICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgZW50aXRpZXM6IHsgLi4uZW50aXRpZXMsIFtpZF06IGVudGl0eVRvUmVwbGFjZSB9CiAgICB9Owp9CgpleHBvcnQgZnVuY3Rpb24gcmVwbGFjZUVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KGVudGl0aWVzVG9SZXBsYWNlOiBFW10sIHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+KTogRW50aXR5U3RhdGVNb2RlbDxFPiB7CiAgICByZXR1cm4gZW50aXRpZXNUb1JlcGxhY2UucmVkdWNlKChzdGF0ZUFjYywgZW50aXR5KSA9PiByZXBsYWNlRW50aXR5KGVudGl0eSwgc3RhdGVBY2MpLCBzdGF0ZSk7Cn0KCgpleHBvcnQgZnVuY3Rpb24gdXBkYXRlQWxsRW50aXRpZXM8RSBleHRlbmRzIEVudGl0eT4oCiAgICBzdGF0ZTogRW50aXR5U3RhdGVNb2RlbDxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGVNb2RlbDxFPiB7CiAgICBjb25zdCB7IGlkcyB9ID0gc3RhdGU7CiAgICByZXR1cm4gdXBkYXRlRW50aXRpZXMoaWRzLCBzdGF0ZSwgdXBkYXRlKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIHVwZGF0ZUVudGl0eTxFIGV4dGVuZHMgRW50aXR5PigKICAgIGlkVG9VcGRhdGU6IElkT2Y8RT4sCiAgICBzdGF0ZTogRW50aXR5U3RhdGVNb2RlbDxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGVNb2RlbDxFPiB7CiAgICBjb25zdCBlbnRpdHkgPSBnZXRFbnRpdHkoaWRUb1VwZGF0ZSwgc3RhdGUpOwoKICAgIGlmIChlbnRpdHkgPT09IHVuZGVmaW5lZCkgewogICAgICAgIHJldHVybiBzdGF0ZTsKICAgIH0KCiAgICBjb25zdCB1cGRhdGVkRW50aXR5ID0gdXBkYXRlKGVudGl0eSwgaWRUb1VwZGF0ZSk7CgogICAgaWYgKGlkVG9VcGRhdGUgPT09IHVwZGF0ZWRFbnRpdHkuaWQpIHsKICAgICAgICByZXR1cm4gcmVwbGFjZUVudGl0eSh1cGRhdGVkRW50aXR5LCBzdGF0ZSk7CiAgICB9CgogICAgcmV0dXJuIGFkZEVudGl0eSh1cGRhdGVkRW50aXR5LCByZW1vdmVFbnRpdHkoaWRUb1VwZGF0ZSwgc3RhdGUpKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIHVwZGF0ZUVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KAogICAgaWRzVG9VcGRhdGU6IElkT2Y8RT5bXSwKICAgIHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+LAogICAgdXBkYXRlOiAoZW50aXR5OiBFLCBpZDogSWRPZjxFPikgPT4gRQopOiBFbnRpdHlTdGF0ZU1vZGVsPEU+IHsKICAgIHJldHVybiBpZHNUb1VwZGF0ZS5yZWR1Y2UoKHN0YXRlQWNjLCBpZCkgPT4gdXBkYXRlRW50aXR5KGlkLCBzdGF0ZUFjYywgdXBkYXRlKSwgc3RhdGUpOwp9CgoKZXhwb3J0IGZ1bmN0aW9uIHJlbW92ZUFsbEVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+KTogRW50aXR5U3RhdGVNb2RlbDxFPiB7CiAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGlkczogW10KICAgIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiByZW1vdmVFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWRUb1JlbW92ZTogSWRPZjxFPiwgc3RhdGU6IEVudGl0eVN0YXRlTW9kZWw8RT4pOiBFbnRpdHlTdGF0ZU1vZGVsPEU+IHsKICAgIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogICAgLyogS2VlcCBhbGwgaWRzIGV4Y2VwdCBmb3IgaWRUb1JlbW92ZS4gKi8KICAgIGNvbnN0IG5ld0lkcyA9IGlkcy5maWx0ZXIoaWQgPT4gaWQgIT09IGlkVG9SZW1vdmUpOwoKICAgIC8qIElnbm9yaW5nIHRoZSBlbnRpdHkgZm9yIHRoZSBpZFRvUmVtb3ZlLCBhbmQgY2FwdHVyaW5nIHRoZSByZXN0IGluIG5ld0VudGl0aWVzLiAqLwogICAgY29uc3QgeyBbaWRUb1JlbW92ZV06IF8sIC4uLm5ld0VudGl0aWVzIH0gPSBlbnRpdGllczsKCiAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGlkczogbmV3SWRzLAogICAgICAgIGVudGl0aWVzOiBuZXdFbnRpdGllcwogICAgfTsKfQoKZXhwb3J0IGZ1bmN0aW9uIHJlbW92ZUVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KGlkc1RvUmVtb3ZlOiBJZE9mPEU+W10sIHN0YXRlOiBFbnRpdHlTdGF0ZU1vZGVsPEU+KTogRW50aXR5U3RhdGVNb2RlbDxFPiB7CiAgICByZXR1cm4gaWRzVG9SZW1vdmUucmVkdWNlKChzdGF0ZUFjYywgaWQpID0+IHJlbW92ZUVudGl0eShpZCwgc3RhdGVBY2MpLCBzdGF0ZSk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvZW50aXR5LmFjdGlvbnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgRW50aXR5U2V0PEUgZXh0ZW5kcyBFbnRpdHk+IHsKICAgIFtrZXk6IHN0cmluZ106IEUgfCB1bmRlZmluZWQ7CiAgICBba2V5OiBudW1iZXJdOiBFIHwgdW5kZWZpbmVkOwp9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwoKICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICAgICAgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgICB9CgogICAgICAgIC8qIENhc3RpbmcgdW50aWwgTWljcm9zb2Z0L1R5cGVTY3JpcHQjMjc4OTUgaXMgcmVzb2x2ZWQuICovCiAgICAgICAgcmV0dXJuIGVudGl0aWVzW2lkIGFzIHN0cmluZyB8IG51bWJlcl07</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CmV4cG9ydCBjbGFzcyBDb21wbGV0ZVRhc2s8RSBleHRlbmRzIEVudGl0eT4gewogICAgY29uc3RydWN0b3IocHVibGljIGlkOiBzdHJpbmcpIHt9Cn0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlkcyB9ID0gc3RhdGU7CiAgICAgICAgcmV0dXJuIGdldEVudGl0aWVzKGlkcywgc3RhdGUpCiAgICAgICAgICAgIC5maWx0ZXIoZW50aXR5ID0+IGVudGl0eSAhPT0gdW5kZWZpbmVkKSBhcyBFW107</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyByZWFkb25seSB0eXBlID0gJ1tUYXNrXSBBZGQgVGFzayc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyByZWFkb25seSB0eXBlID0gJ1tUYXNrXSBVcGRhdGUgVGFzayc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyByZWFkb25seSB0eXBlID0gJ1tUYXNrXSBDb21wbGV0ZSBUYXNrJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU6ICdUZXN0IENhbXBhaWduJywKCiAgICAgICAgICAgIGNoYXJhY3RlcklkczogW10sCiAgICAgICAgICAgIHBsYXllcklkczogW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyByZWFkb25seSB0eXBlID0gJ1tUYXNrXSBSZW1vdmUgVGFzayc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvZW50aXR5LXN0YXRlLnV0aWxzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld0lkcyA9IGlkcy5maWx0ZXIoaWQgPT4gaWQgIT09IGlkVG9SZW1vdmUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7CmltcG9ydCB7IG9mIH0gZnJvbSAncnhqcy9vYnNlcnZhYmxlL29mJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICA=</last-search>
+      <last-search>Task</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICA=</last-pattern>
-      <last-replace>active</last-replace>
-      <last-substitute>default</last-substitute>
+      <last-pattern>Task</last-pattern>
+      <last-replace>Campaign</last-replace>
+      <last-substitute>Task</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>profileConig</entry>
         <entry encoding="base64">XDxwcm9maWxlQ29uZmlnXD4=</entry>
         <entry>poly</entry>
         <entry>fileList</entry>
@@ -833,6 +863,7 @@
         <entry>TaskSt</entry>
         <entry>entity</entry>
         <entry encoding="base64">ICA=</entry>
+        <entry>Task</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
@@ -844,6 +875,7 @@
         <entry encoding="base64">JzwsJz5zL2RlZmF1bHQvYWN0aXZl</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>%s/Task/Campaign</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
