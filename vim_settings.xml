@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" timestamp="1538344139861">
-        <mark key="'" line="0" column="41" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="6" />
+      <file name="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" timestamp="1539482957931">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="44" />
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/todo-app/src/model/EntityState.ts" timestamp="1539483038529">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/list.component.ts" timestamp="1497573480828">
         <mark key="'" line="0" column="0" />
@@ -78,6 +84,10 @@
         <mark key="]" line="5" column="37" />
         <mark key="." line="5" column="26" />
         <mark key="^" line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.ts" timestamp="1539483111783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/ui.reducer.ts" timestamp="1497729083241">
         <mark key="'" line="4" column="69" />
@@ -323,6 +333,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/frame.component.spec.ts" timestamp="1539471566872">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/index.ts" timestamp="1539480907832">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="34" />
@@ -384,6 +398,9 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539483492960">
+        <mark key="'" line="68" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" timestamp="1539472223396">
         <mark key="'" line="1" column="3" />
@@ -484,6 +501,12 @@
         <mark key="]" line="1" column="47" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.ts" timestamp="1539483837475">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" timestamp="1523841891054">
         <mark key="'" line="218" column="0" />
@@ -600,9 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.html" />
-      <jump line="214" column="0" filename="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character-menu/menu-item.component.ts" />
-      <jump line="11" column="20" filename="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" />
       <jump line="10" column="2" filename="$USER_HOME$/Projects/todo-app/src/index.html" />
       <jump line="12" column="24" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="29" column="27" filename="$USER_HOME$/Projects/todo-app/angular.json" />
@@ -700,22 +720,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
+      <jump line="8" column="42" filename="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" />
+      <jump line="68" column="11" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>lib/entity.module</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>entity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic3RyaWN0IjogdHJ1ZSwK</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBnZXRFbnRpdHk8RSBleHRlbmRzIEVudGl0eT4oaWQ6IElkT2Y8RT4sIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPik6IEUgfCB1bmRlZmluZWQgewogIGNvbnN0IHsgaWRzLCBlbnRpdGllcyB9ID0gc3RhdGU7CgogIGlmICghaWRzLmluY2x1ZGVzKGlkKSkgewogICAgcmV0dXJuIHVuZGVmaW5lZDsKICB9CgogIHJldHVybiBlbnRpdGllc1tpZF07Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
