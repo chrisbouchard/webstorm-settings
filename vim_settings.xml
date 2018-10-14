@@ -179,12 +179,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539548387844">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="30" column="17" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539548653261">
+        <mark key="'" line="15" column="51" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.haml" timestamp="1499020583473">
         <mark key="'" line="83" column="50" />
@@ -634,7 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="$USER_HOME$/Projects/todo-app/angular.json" />
       <jump line="9" column="23" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
@@ -734,16 +733,17 @@
       <jump line="121" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="16" column="51" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50aXR5IH0gZnJvbSAnLi9lbnRpdHktc3RhdGUudXRpbHMnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>getEntity</text>
       </register>
       <register name="/" type="4">
         <text>entity</text>
@@ -752,31 +752,31 @@
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVwZGF0ZUVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KAogICAgaWRzVG9VcGRhdGU6IElkT2Y8RT5bXSwKICAgIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGU8RT4gewogICAgcmV0dXJuIGlkc1RvVXBkYXRlLnJlZHVjZSgoc3RhdGVBY2MsIGlkKSA9PiB1cGRhdGVFbnRpdHkoaWQsIHN0YXRlQWNjLCB1cGRhdGUpLCBzdGF0ZSk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKGVudGl0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50aXR5IH0gZnJvbSAnLi9lbnRpdHktc3RhdGUudXRpbHMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkc1RvVXBkYXRlOiBJZE9mPEU+W10sCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGVudGl0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsK</text>
+        <text encoding="base64">ICAgIGlkc1RvVXBkYXRlOiBJZE9mPEU+W10sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZHNUb1JlbW92ZS5yZWR1Y2UoKHN0YXRlQWNjLCBpZCkgPT4gcmVtb3ZlRW50aXR5KGlkLCBzdGF0ZUFjYyksIHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHJlbW92ZUFsbAoK</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZHNUb1JlbW92ZS5yZWR1Y2UoKHN0YXRlQWNjLCBpZCkgPT4gcmVtb3ZlRW50aXR5KGlkLCBzdGF0ZUFjYyksIHN0YXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gaWRzLmZsYXRNYXAoaWQgPT4gewogICAgICAgIGNvbnN0IGVudGl0eTogRSB8IHVuZGVmaW5lZCA9IGdldEVudGl0eShpZCwgc3RhdGUpOwoKICAgICAgICBpZiAoZW50aXR5ID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFtlbnRpdHldOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHJlbW92ZUFsbAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsKCg==</text>
+        <text encoding="base64">CiAgICByZXR1cm4gaWRzLmZsYXRNYXAoaWQgPT4gewogICAgICAgIGNvbnN0IGVudGl0eTogRSB8IHVuZGVmaW5lZCA9IGdldEVudGl0eShpZCwgc3RhdGUpOwoKICAgICAgICBpZiAoZW50aXR5ID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFtlbnRpdHldOwogICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZW50aXRpZXMgfSA9IHN0YXRlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZW50aXRpZXMgfSA9IHN0YXRlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
