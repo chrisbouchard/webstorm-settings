@@ -179,12 +179,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539548653261">
-        <mark key="'" line="15" column="51" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" timestamp="1539549862654">
+        <mark key="'" line="45" column="2" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="98" column="69" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/sheet.component.haml" timestamp="1499020583473">
         <mark key="'" line="83" column="50" />
@@ -634,29 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="23" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/todo-app/e2e/protractor-ci.conf.js" />
-      <jump line="16" column="83" filename="$USER_HOME$/Projects/todo-app/.circleci/config.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/.circleci/config.yml" />
-      <jump line="14" column="28" filename="$USER_HOME$/Projects/todo-app/package.json" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/todo-app/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/package.json" />
-      <jump line="54" column="9" filename="$USER_HOME$/Projects/todo-app/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/app.component.html" />
-      <jump line="7" column="45" filename="$USER_HOME$/Projects/todo-app/src/app/app-routing.module.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/app-routing.module.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/item.ts" />
-      <jump line="3" column="8" filename="$USER_HOME$/Projects/todo-app/src/model/item.ts" />
-      <jump line="1" column="9" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="5" column="31" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
-      <jump line="9" column="39" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.actions.ts" />
-      <jump line="13" column="12" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="6" column="26" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="22" column="14" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
-      <jump line="25" column="31" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/app/task.state.ts" />
       <jump line="22" column="14" filename="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" />
       <jump line="25" column="4" filename="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" />
@@ -725,67 +702,90 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/todo-app/src/model/Entity.ts" />
       <jump line="68" column="11" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="12" column="37" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="119" column="59" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="53" column="45" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
       <jump line="16" column="51" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="99" column="35" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="5" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="6" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="7" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="8" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="14" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="15" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="19" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="21" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="22" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="23" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="25" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="26" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="30" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="35" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="36" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="38" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="39" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="40" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="42" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="43" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="44" column="6" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
+      <jump line="45" column="2" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity-state.utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50aXR5IH0gZnJvbSAnLi9lbnRpdHktc3RhdGUudXRpbHMnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZW50aXRpZXMgfSA9IHN0YXRlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getEntity</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>entity</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVwZGF0ZUVudGl0aWVzPEUgZXh0ZW5kcyBFbnRpdHk+KAogICAgaWRzVG9VcGRhdGU6IElkT2Y8RT5bXSwKICAgIHN0YXRlOiBFbnRpdHlTdGF0ZTxFPiwKICAgIHVwZGF0ZTogKGVudGl0eTogRSwgaWQ6IElkT2Y8RT4pID0+IEUKKTogRW50aXR5U3RhdGU8RT4gewogICAgcmV0dXJuIGlkc1RvVXBkYXRlLnJlZHVjZSgoc3RhdGVBY2MsIGlkKSA9PiB1cGRhdGVFbnRpdHkoaWQsIHN0YXRlQWNjLCB1cGRhdGUpLCBzdGF0ZSk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50aXR5IH0gZnJvbSAnLi9lbnRpdHktc3RhdGUudXRpbHMnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZW50aXRpZXMgfSA9IHN0YXRlOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKGVudGl0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9Cgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgZW50aXRpZXM6IHsgLi4uZW50aXRpZXMsIFtpZFRvVXBkYXRlXTogdXBkYXRlZEVudGl0eSB9CiAgICB9Ow==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkc1RvVXBkYXRlOiBJZE9mPEU+W10sCg==</text>
+        <text encoding="base64">ICAgIGlmICgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsK</text>
+        <text encoding="base64">ICAgIGlmICgpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZHNUb1JlbW92ZS5yZWR1Y2UoKHN0YXRlQWNjLCBpZCkgPT4gcmVtb3ZlRW50aXR5KGlkLCBzdGF0ZUFjYyksIHN0YXRlKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50aXR5IH0gZnJvbSAnLi9lbnRpdHktc3RhdGUudXRpbHMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHJlbW92ZUFsbAoK</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGVudGl0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gaWRzLmZsYXRNYXAoaWQgPT4gewogICAgICAgIGNvbnN0IGVudGl0eTogRSB8IHVuZGVmaW5lZCA9IGdldEVudGl0eShpZCwgc3RhdGUpOwoKICAgICAgICBpZiAoZW50aXR5ID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFtlbnRpdHldOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGlkc1RvVXBkYXRlOiBJZE9mPEU+W10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsKCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaWRzIH0gPSBzdGF0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZW50aXRpZXMgfSA9IHN0YXRlOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZHNUb1JlbW92ZS5yZWR1Y2UoKHN0YXRlQWNjLCBpZCkgPT4gcmVtb3ZlRW50aXR5KGlkLCBzdGF0ZUFjYyksIHN0YXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>entity</last-search>
+      <last-search encoding="base64">ICA=</last-search>
       <last-offset />
-      <last-pattern>entity</last-pattern>
+      <last-pattern encoding="base64">ICA=</last-pattern>
       <last-replace>active</last-replace>
       <last-substitute>default</last-substitute>
       <last-dir>1</last-dir>
@@ -793,7 +793,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stunt</entry>
         <entry>profileConig</entry>
         <entry encoding="base64">XDxwcm9maWxlQ29uZmlnXD4=</entry>
         <entry>poly</entry>
@@ -813,6 +812,7 @@
         <entry>output</entry>
         <entry>TaskSt</entry>
         <entry>entity</entry>
+        <entry encoding="base64">ICA=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
