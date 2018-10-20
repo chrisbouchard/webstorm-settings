@@ -244,12 +244,9 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.state.ts" timestamp="1539827530843">
-        <mark key="'" line="48" column="62" />
-        <mark key="[" line="48" column="48" />
-        <mark key="]" line="48" column="62" />
-        <mark key="." line="48" column="62" />
-        <mark key="^" line="48" column="62" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.state.ts" timestamp="1539992782519">
+        <mark key="'" line="6" column="98" />
+        <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.ts" timestamp="1539558508672">
         <mark key="[" line="6" column="0" />
@@ -303,6 +300,13 @@
         <mark key="]" line="75" column="66" />
         <mark key="." line="75" column="65" />
         <mark key="^" line="75" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" timestamp="1539994866193">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/stress-box.component.ts" timestamp="1497574766667">
         <mark key="'" line="50" column="0" />
@@ -609,6 +613,13 @@
         <mark key="." line="87" column="34" />
         <mark key="^" line="87" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.module.ts" timestamp="1539993790389">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/model/aspect.spec.ts" timestamp="1500767239777">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="0" column="0" />
@@ -622,6 +633,12 @@
         <mark key="]" line="23" column="37" />
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/index.ts.ts" timestamp="1539993814470">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.ts" timestamp="1539481222934">
         <mark key="'" line="0" column="0" />
@@ -662,12 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" />
-      <jump line="1" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/campaign.ts" />
-      <jump line="2" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/model/character.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/test.ts" />
-      <jump line="5" column="36" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" />
-      <jump line="4" column="32" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/ng-package.json" />
       <jump line="16" column="37" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/model/EntityState.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/tsconfig.lib.json" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" />
@@ -762,49 +773,55 @@
       <jump line="9" column="36" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.service.ts" />
       <jump line="24" column="3" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.state.ts" />
       <jump line="48" column="62" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.state.ts" />
+      <jump line="6" column="98" filename="$USER_HOME$/Projects/ng-fate-charsheet/src/app/campaign/campaign.state.ts" />
+      <jump line="5" column="14" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.module.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/index.ts.ts" />
+      <jump line="1" column="16" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
+      <jump line="7" column="17" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>updatedCampaign</text>
+        <text encoding="base64">VExpbmtzW1RSZWxdIGV4dGVuZHMgTGluazxpbmZlciBUPiA/IFRMaW5rc1tUUmVsXSA6IExpbms8VExpbmtzW1RSZWxdPjs=</text>
       </register>
       <register name="-" type="4">
-        <text>updatedCampaign</text>
+        <text encoding="base64">VExpbmtzW1RSZWxdIGV4dGVuZHMgTGluazxpbmZlciBUPiA/IFRMaW5rc1tUUmVsXSA6IExpbms8VExpbmtzW1RSZWxdPjs=</text>
       </register>
       <register name="/" type="4">
         <text>Task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgogICAgQEFjdGlvbihBZGRDYW1wYWlnbikKICAgIGFkZENhbXBhaWduKGN0eDogU3RhdGVDb250ZXh0PENhbXBhaWduU3RhdGVNb2RlbD4sIGFjdGlvbjogQWRkQ2FtcGFpZ24pIHsKICAgICAgICBjdHgucGF0Y2hTdGF0ZSgKICAgICAgICAgICAgYWRkRW50aXR5KGFjdGlvbi5jYW1wYWlnbiwgY3R4LmdldFN0YXRlKCkpCiAgICAgICAgKTsKICAgIH0KCiAgICBAQWN0aW9uKENyZWF0ZUNhbXBhaWduKQogICAgY3JlYXRlQ2FtcGFpZ24oY3R4OiBTdGF0ZUNvbnRleHQ8Q2FtcGFpZ25TdGF0ZU1vZGVsPiwgYWN0aW9uOiBDcmVhdGVDYW1wYWlnbikgewogICAgICAgIHJldHVybiB0aGlzLmNhbXBhaWduRGF0YS5jcmVhdGVDYW1wYWlnbihhY3Rpb24uY2FtcGFpZ24pCiAgICAgICAgICAgIC5waXBlKG1lcmdlTWFwKGNhbXBhaWduID0+IGN0eC5kaXNwYXRjaChuZXcgQWRkQ2FtcGFpZ24oY2FtcGFpZ24pKSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIFRMaW5rIGV4dGVuZHMgKGluZmVyIFRFbGVtZW50KVtdID8gTGlua2lmeTxURWxlbWVudD5bXSA6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYW1wYWlnbiA9IGdldEVudGl0eShhY3Rpb24uY2FtcGFpZ24uaWQsIGN0eC5nZXRTdGF0ZSgpKTsKICAgICAgICBjb25zdCB1cGRhdGVkQ2FtcGFpZ246IENhbXBhaWduID0geyAuLi5jYW1wYWlnbiwgLi4uYWN0aW9uLmNhbXBhaWduIH07Cgo=</text>
+        <text encoding="base64">ICAgIFRMaW5rIGV4dGVuZHMgKGluZmVyIFRFbGVtZW50KVtdID8gTGlua2lmeTxURWxlbWVudD5bXSA6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYW1wYWlnbiA9IHsgLi4uY3R4LmdldFN0YXRlKCkufQo=</text>
+        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWVtcHR5LWludGVyZmFjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6ICd0ZXN0LWNhbXBhaWduJwo=</text>
+        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIEpTVW51c2VkR2xvYmFsU3ltYm9scwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvbmctaGFsLmNvbXBvbmVudCc7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlkcywgZW50aXRpZXMgfSA9IHN0YXRlOwoKICAgICAgICBpZiAoIWlkcy5pbmNsdWRlcyhpZCkpIHsKICAgICAgICAgICAgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgICB9CgogICAgICAgIC8qIENhc3RpbmcgdW50aWwgTWljcm9zb2Z0L1R5cGVTY3JpcHQjMjc4OTUgaXMgcmVzb2x2ZWQuICovCiAgICAgICAgcmV0dXJuIGVudGl0aWVzW2lkIGFzIHN0cmluZyB8IG51bWJlcl07</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYWRkRW50aXR5LCByZXBsYWNlRW50aXR5IH0gZnJvbSAnLi4vLi4vLi4vcHJvamVjdHMvZW50aXR5L3NyYyc7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlkcyB9ID0gc3RhdGU7CiAgICAgICAgcmV0dXJuIGdldEVudGl0aWVzKGlkcywgc3RhdGUpCiAgICAgICAgICAgIC5maWx0ZXIoZW50aXR5ID0+IGVudGl0eSAhPT0gdW5kZWZpbmVkKSBhcyBFW107</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBjYW1wYWlnbiA9IGdldEVudGl0eShhY3Rpb24uY2FtcGFpZ24uaWQsIGN0eC5nZXRTdGF0ZSgpKTsKICAgICAgICBjb25zdCB1cGRhdGVkQ2FtcGFpZ246IENhbXBhaWduID0geyAuLi5jYW1wYWlnbiwgLi4uYWN0aW9uLmNhbXBhaWduIH07Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjYW1wYWlnbiA9IHsgLi4uY3R4LmdldFN0YXRlKCkufQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
