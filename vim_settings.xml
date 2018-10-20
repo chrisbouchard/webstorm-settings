@@ -76,6 +76,11 @@
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.actions.ts" timestamp="1539555691923">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.service.ts" timestamp="1539996325426">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.ts" timestamp="1539555946977">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="0" />
@@ -301,12 +306,12 @@
         <mark key="." line="75" column="65" />
         <mark key="^" line="75" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" timestamp="1539994866193">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="47" />
-        <mark key="." line="19" column="47" />
-        <mark key="^" line="19" column="47" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" timestamp="1539995945427">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/git/fate-charsheet-2.0/src/ui/stress-box.component.ts" timestamp="1497574766667">
         <mark key="'" line="50" column="0" />
@@ -466,11 +471,6 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entityStateModel.ts" timestamp="1539555907082">
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-      </file>
       <file name="$USER_HOME$/git/fate-charsheet-ng/src/app/character/character.reducer.ts" timestamp="1520047052888">
         <mark key="'" line="18" column="34" />
         <mark key="[" line="0" column="0" />
@@ -550,6 +550,13 @@
         <mark key="]" line="211" column="45" />
         <mark key="." line="211" column="45" />
         <mark key="^" line="211" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" timestamp="1539996527866">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.action.ts" timestamp="1539555624078">
         <mark key="'" line="13" column="0" />
@@ -679,9 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/model/EntityState.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/tsconfig.lib.json" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
@@ -779,49 +783,54 @@
       <jump line="1" column="16" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
       <jump line="7" column="17" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
+      <jump line="26" column="16" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VExpbmtzW1RSZWxdIGV4dGVuZHMgTGluazxpbmZlciBUPiA/IFRMaW5rc1tUUmVsXSA6IExpbms8VExpbmtzW1RSZWxdPjs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VExpbmtzW1RSZWxdIGV4dGVuZHMgTGluazxpbmZlciBUPiA/IFRMaW5rc1tUUmVsXSA6IExpbms8VExpbmtzW1RSZWxdPjs=</text>
+        <text>NgHalService</text>
       </register>
       <register name="/" type="4">
         <text>Task</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFRMaW5rIGV4dGVuZHMgKGluZmVyIFRFbGVtZW50KVtdID8gTGlua2lmeTxURWxlbWVudD5bXSA6Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">J19saW5rcycgfCAnX2VtYmVkZGVkJz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRMaW5rIGV4dGVuZHMgKGluZmVyIFRFbGVtZW50KVtdID8gTGlua2lmeTxURWxlbWVudD5bXSA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWVtcHR5LWludGVyZmFjZQo=</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVXJpID0gc3RyaW5nOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIEpTVW51c2VkR2xvYmFsU3ltYm9scwo=</text>
+        <text encoding="base64">fSAmIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>{
+    [K in keyof R]: R[K]
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmV4cG9ydCB0eXBlIExpbmtzT2JqZWN0PFRSZXNvdXJjZSwgVExpbmtzPiA9IHsKICAgIHNlbGY6IExpbms8VFJlc291cmNlPjsKfSAmIHsKICAgIFtUUmVsIGluIGtleW9mIFRMaW5rc106IExpbmtpZnk8VExpbmtzW1RSZWxdPgp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvbmctaGFsLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">CnR5cGUgTGlua2lmeU9uZTxMPiA9CiAgICBMIGV4dGVuZHMgTGluazxpbmZlciBSPiA/IEwgOiBMaW5rPEw+Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWRkRW50aXR5LCByZXBsYWNlRW50aXR5IH0gZnJvbSAnLi4vLi4vLi4vcHJvamVjdHMvZW50aXR5L3NyYyc7Cg==</text>
+        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWVtcHR5LWludGVyZmFjZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYW1wYWlnbiA9IGdldEVudGl0eShhY3Rpb24uY2FtcGFpZ24uaWQsIGN0eC5nZXRTdGF0ZSgpKTsKICAgICAgICBjb25zdCB1cGRhdGVkQ2FtcGFpZ246IENhbXBhaWduID0geyAuLi5jYW1wYWlnbiwgLi4uYWN0aW9uLmNhbXBhaWduIH07Cgo=</text>
+        <text encoding="base64">ICAgIFRMaW5rIGV4dGVuZHMgKGluZmVyIFRFbGVtZW50KVtdID8gTGlua2lmeTxURWxlbWVudD5bXSA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYW1wYWlnbiA9IHsgLi4uY3R4LmdldFN0YXRlKCkufQo=</text>
+        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWVtcHR5LWludGVyZmFjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
