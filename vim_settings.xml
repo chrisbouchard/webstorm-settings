@@ -66,11 +66,11 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" timestamp="1539480952125">
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" timestamp="1539997301052">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="26" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
         <mark key="^" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.actions.ts" timestamp="1539555691923">
@@ -334,6 +334,12 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/package.json" timestamp="1539997321191">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/src/campaign/campaign.actions.ts" timestamp="1539558297747">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="1" />
@@ -551,12 +557,12 @@
         <mark key="." line="211" column="45" />
         <mark key="^" line="211" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" timestamp="1539996527866">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" timestamp="1539997975010">
+        <mark key="'" line="14" column="24" />
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="57" />
+        <mark key="^" line="22" column="57" />
+        <mark key="." line="22" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/lib/entity.action.ts" timestamp="1539555624078">
         <mark key="'" line="13" column="0" />
@@ -599,6 +605,11 @@
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/ng-fate-charsheet/node_modules/@angular/common/http/src/client.d.ts" timestamp="1539997809587">
+        <mark key="'" line="569" column="10" />
+        <mark key="[" line="426" column="0" />
+        <mark key="]" line="437" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/todo-app/src/app/app.module.ts" timestamp="1538442832080">
         <mark key="'" line="24" column="17" />
@@ -686,11 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/EntityState.ts" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
-      <jump line="12" column="4" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
-      <jump line="81" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/src/entity-state.utils.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/entity/package.json" />
       <jump line="44" column="46" filename="$USER_HOME$/Projects/ng-fate-charsheet/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/angular.json" />
@@ -785,52 +791,57 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
       <jump line="26" column="16" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/ng-hal.model.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" />
+      <jump line="6" column="43" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" />
+      <jump line="13" column="24" filename="$USER_HOME$/Projects/ng-fate-charsheet/projects/ng-hal/src/lib/hal-client.service.ts" />
+      <jump line="623" column="17" filename="$USER_HOME$/Projects/ng-fate-charsheet/node_modules/@angular/common/http/src/client.d.ts" />
+      <jump line="569" column="10" filename="$USER_HOME$/Projects/ng-fate-charsheet/node_modules/@angular/common/http/src/client.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Z2xvYmFsWydIVE1MRWxlbWVudCddID0gSFRNTEVsZW1lbnQ7Cmdsb2JhbFsnWE1MSHR0cFJlcXVlc3QnXSA9IFhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>uri</text>
       </register>
       <register name="-" type="4">
-        <text>NgHalService</text>
+        <text>uri</text>
       </register>
       <register name="/" type="4">
         <text>Task</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">J19saW5rcycgfCAnX2VtYmVkZGVkJz4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZSh1cmw6IHN0cmluZywgb3B0aW9uczogewogICAgICAgIGhlYWRlcnM/OiBIdHRwSGVhZGVycyB8IHsKICAgICAgICAgICAgW2hlYWRlcjogc3RyaW5nXTogc3RyaW5nIHwgc3RyaW5nW107CiAgICAgICAgfTsKICAgICAgICBvYnNlcnZlOiAnZXZlbnRzJzsKICAgICAgICBwYXJhbXM/OiBIdHRwUGFyYW1zIHwgewogICAgICAgICAgICBbcGFyYW06IHN0cmluZ106IHN0cmluZyB8IHN0cmluZ1tdOwogICAgICAgIH07CiAgICAgICAgcmVwb3J0UHJvZ3Jlc3M/OiBib29sZWFuOwogICAgICAgIHJlc3BvbnNlVHlwZT86ICdqc29uJzsKICAgICAgICB3aXRoQ3JlZGVudGlhbHM/OiBib29sZWFuOwogICAgfSk6IE9ic2VydmFibGU8SHR0cEV2ZW50PE9iamVjdD4+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRQcm9ncmVzcz86IGJvb2xlYW47CiAgICAgICAgd2l0aENyZWRlbnRpYWxzPzogYm9vbGVhbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVXJpID0gc3RyaW5nOwoK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZVR5cGU/OiAnanNvbic7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvYnNlcnZlOiAnZXZlbnRzJzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJAYW5ndWxhci9jb21tb24iOiAiXjYuMC4wLXJjLjAgfHwgXjYuMC4wIiwKICAgICJAYW5ndWxhci9jb3JlIjogIl42LjAuMC1yYy4wIHx8IF42LjAuMCIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVXJpID0gc3RyaW5nOwoK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">fSAmIHsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>{
     [K in keyof R]: R[K]
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmV4cG9ydCB0eXBlIExpbmtzT2JqZWN0PFRSZXNvdXJjZSwgVExpbmtzPiA9IHsKICAgIHNlbGY6IExpbms8VFJlc291cmNlPjsKfSAmIHsKICAgIFtUUmVsIGluIGtleW9mIFRMaW5rc106IExpbmtpZnk8VExpbmtzW1RSZWxdPgp9Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CnR5cGUgTGlua2lmeU9uZTxMPiA9CiAgICBMIGV4dGVuZHMgTGluazxpbmZlciBSPiA/IEwgOiBMaW5rPEw+Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWVtcHR5LWludGVyZmFjZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFRMaW5rIGV4dGVuZHMgKGluZmVyIFRFbGVtZW50KVtdID8gTGlua2lmeTxURWxlbWVudD5bXSA6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWVtcHR5LWludGVyZmFjZQo=</text>
+        <text encoding="base64">CmV4cG9ydCB0eXBlIExpbmtzT2JqZWN0PFRSZXNvdXJjZSwgVExpbmtzPiA9IHsKICAgIHNlbGY6IExpbms8VFJlc291cmNlPjsKfSAmIHsKICAgIFtUUmVsIGluIGtleW9mIFRMaW5rc106IExpbmtpZnk8VExpbmtzW1RSZWxdPgp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
